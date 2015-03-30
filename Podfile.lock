@@ -75,22 +75,22 @@ DEPENDENCIES:
   - YapDatabase (~> 2.5)
 
 SPEC CHECKSUMS:
-  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
-  AFOAuth2Manager: a7726957cbc14c229b5d5d648c934453b6bb55b0
-  AWSiOSSDK: a8b11ab4437620b3f5e33e7c090ec393cfd33301
-  BButton: eab327e143be2730c81a22467cc016488a125162
-  CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
-  FFmpeg: 7e37c1efa4206e68c225ec0d73b8e3373d537c2a
-  FFmpegWrapper: 9564268abcc9660ec5463adbe4b5e01f52b6fdd3
-  FormatterKit: 758bef4552d11454f0eb7e73669f81c225247904
-  Kickflip: 702f5b80a0b69e7e43ed314e86aadcdc0f5daceb
-  Mantle: d7c5ac734579ec751c58fecbf56189853056c58c
-  PureLayout: ddf4fedf7e2f5984f972bbd2205dda4fc3418347
-  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
-  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
-  SSPullToRefresh: da7acfb8e269acbd040be7f0b091824cda365a17
-  UIAlertView-Blocks: f3271e84372beb97aea115cd1fb26ae66457f12f
-  VTAcknowledgementsViewController: 5cdab8f3d003680b8fbdfcce90fcab92cee962a6
-  YapDatabase: c1d6912df1b4a160f7373ee7657d360e29bb00fd
+  AFNetworking: 96ac9bf3eda33582701cb1fcc5b896aa1e20311e
+  AFOAuth2Manager: 247d23d9d7a7a4297a00346c6ff07d130d8433c0
+  AWSiOSSDK: 279b4e76fac3bf58da325e9ce62a04dce0d08bcd
+  BButton: ab0f2ed3b998ae73c5188b57d270d81e4a1eeb27
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
+  FFmpeg: e004e90bdac48219b272e7bea11671a25bb0a9b9
+  FFmpegWrapper: 9a932581137d17203e842ce942e171158336ae16
+  FormatterKit: a0c0674b06fda3ce910af9f2358ed0ed868fb48b
+  Kickflip: 68906d78f6bf66b7ec660f380af03c38b60bb3eb
+  Mantle: 1ec9076f091f3a2f95cb2c94939e92dba35c97e1
+  PureLayout: 39ab7d09edec14750ba3982bf19126916861bba5
+  SDWebImage: ed3095af2ff88b436426037444979b917f6c5575
+  SSKeychain: 88767e903ee8d274ed380e364d96b7a101235286
+  SSPullToRefresh: 699d592f8e4264edc36b20b49d60f25eeb5fb77d
+  UIAlertView-Blocks: 7904744fca618afbd2ec646608924f5e69d5acd1
+  VTAcknowledgementsViewController: 5ef73fca3a6179a5488a86ea99d3c7018e8e2fcb
+  YapDatabase: 52370b36f692e23c41c86e60f3bbf81b1c8ae44a
 
 COCOAPODS: 0.35.0
